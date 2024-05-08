@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1058295522193",
+    "project_id": "miniprojectplants",
+    "storage_bucket": "miniprojectplants.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058295522193:android:8794560242851a0ed2b030",
+        "android_client_info": {
+          "package_name": "com.example.sih_flow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD09IDRA3JaceBC4WAZsGpEqekJWf8kVRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
